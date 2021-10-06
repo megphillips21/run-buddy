@@ -10,7 +10,6 @@ body {
     font-family: Helvetica, Arial, sans-serif;
 }
 
-
 /* apply styles to <header>*/
 header {
     padding: 20px 35px;
@@ -23,7 +22,6 @@ header h1 {
     color: #fce138;
     margin: 0;
     display: inline;
-
 }
 header a {
     color: #fce138;
@@ -67,7 +65,6 @@ section{
 .hero{
     background-image: url("../images/hero-bg.jpg");
     height: 600px;
-    padding:0px;
     background-size: cover;
     background-position: center;
     position: relative;
@@ -99,7 +96,7 @@ section{
     margin-bottom: 15px;
 }
 .hero-form label {
-    margin:0 5px;
+    margin: 0 5px;
 }
 .hero-form button{
     color: #fce138;
@@ -129,6 +126,7 @@ section{
     color:#024e76;
     margin-bottom: 35px;
     padding: 0 100px 20px 100px;
+    display: inline-block;
     border-bottom: 3px solid;
 }
 .primary-border{
